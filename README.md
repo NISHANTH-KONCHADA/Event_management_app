@@ -9,10 +9,8 @@ A cross-platform **Event Management App** built using **Flutter**, designed for 
 
 | Feature | Description |
 |--------|-------------|
-| 🔐 Authentication | Sign Up / Login / Logout |
 | 🗓 Create Events | Add event title, date, location, and description |
 | 📍 Discover Events | Browse all or nearby/upcoming events |
-| ✅ RSVP / Register | Attend and track registered events |
 | 🔍 Search & Filter | Find events by category / date |
 | 📡 Real-time Sync | Firebase/Supabase backend (based on configuration) |
 | 📱 Cross Platform | Android & iOS support |
