@@ -1,4 +1,5 @@
-# cse23523 Live demo: https://eventmanagementapp-d8bc9.web.app/
+# cse23523 
+Live demo: https://eventmanagementapp-d8bc9.web.app/
 # 📅 Event Management App (Flutter)
 
 A cross-platform **Event Management App** built using **Flutter**, designed for creating, exploring, and managing events seamlessly. The app provides real-time event updates, user authentication, RSVP/booking functionality, and a smooth UI for both Android and iOS.
