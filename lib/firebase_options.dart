@@ -41,49 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDigK7gI934H8rXbpvWiD_jCp0uX1xwbSg',
-    appId: '1:944325399193:web:0b56de854ceb01219d1e08',
-    messagingSenderId: '944325399193',
-    projectId: 'endsem-ec83d',
-    authDomain: 'endsem-ec83d.firebaseapp.com',
-    storageBucket: 'endsem-ec83d.firebasestorage.app',
-    measurementId: 'G-61L2NEJCQ0',
+    apiKey: 'AIzaSyASQnFt8LKQFg1p6z9xGs2uH1tXekddhWM',
+    appId: '1:782658379168:web:abc3506cdf53d30a7ad8c5',
+    messagingSenderId: '782658379168',
+    projectId: 'eventmanagementapp-d8bc9',
+    authDomain: 'eventmanagementapp-d8bc9.firebaseapp.com',
+    storageBucket: 'eventmanagementapp-d8bc9.firebasestorage.app',
+    measurementId: 'G-6K3LJDTS9V',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAY7bRpcwlw9q6Ic4AmIwF0PFJAj6giYRU',
-    appId: '1:944325399193:android:5c8b226fd3fcceba9d1e08',
-    messagingSenderId: '944325399193',
-    projectId: 'endsem-ec83d',
-    storageBucket: 'endsem-ec83d.firebasestorage.app',
+    apiKey: 'AIzaSyBGVqthwjv9jti4lzmvronbworkLPQohlI',
+    appId: '1:782658379168:android:cb36dab5ec4eeb667ad8c5',
+    messagingSenderId: '782658379168',
+    projectId: 'eventmanagementapp-d8bc9',
+    storageBucket: 'eventmanagementapp-d8bc9.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBaf4Spq3jGEBhbYPj74_t6to0GEmODwd0',
-    appId: '1:944325399193:ios:5acf986f1d67f4c99d1e08',
-    messagingSenderId: '944325399193',
-    projectId: 'endsem-ec83d',
-    storageBucket: 'endsem-ec83d.firebasestorage.app',
+    apiKey: 'AIzaSyDcfpCv9PGpSFIUeEbmiqAX5y_lRb_BTCw',
+    appId: '1:782658379168:ios:738ddaa55e5259247ad8c5',
+    messagingSenderId: '782658379168',
+    projectId: 'eventmanagementapp-d8bc9',
+    storageBucket: 'eventmanagementapp-d8bc9.firebasestorage.app',
     iosBundleId: 'com.example.cse23523',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBaf4Spq3jGEBhbYPj74_t6to0GEmODwd0',
-    appId: '1:944325399193:ios:5acf986f1d67f4c99d1e08',
-    messagingSenderId: '944325399193',
-    projectId: 'endsem-ec83d',
-    storageBucket: 'endsem-ec83d.firebasestorage.app',
+    apiKey: 'AIzaSyDcfpCv9PGpSFIUeEbmiqAX5y_lRb_BTCw',
+    appId: '1:782658379168:ios:738ddaa55e5259247ad8c5',
+    messagingSenderId: '782658379168',
+    projectId: 'eventmanagementapp-d8bc9',
+    storageBucket: 'eventmanagementapp-d8bc9.firebasestorage.app',
     iosBundleId: 'com.example.cse23523',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDigK7gI934H8rXbpvWiD_jCp0uX1xwbSg',
-    appId: '1:944325399193:web:f2fa4652d78791439d1e08',
-    messagingSenderId: '944325399193',
-    projectId: 'endsem-ec83d',
-    authDomain: 'endsem-ec83d.firebaseapp.com',
-    storageBucket: 'endsem-ec83d.firebasestorage.app',
-    measurementId: 'G-YJ6X4X04ZP',
+    apiKey: 'AIzaSyASQnFt8LKQFg1p6z9xGs2uH1tXekddhWM',
+    appId: '1:782658379168:web:b758ed8bc129fb0b7ad8c5',
+    messagingSenderId: '782658379168',
+    projectId: 'eventmanagementapp-d8bc9',
+    authDomain: 'eventmanagementapp-d8bc9.firebaseapp.com',
+    storageBucket: 'eventmanagementapp-d8bc9.firebasestorage.app',
+    measurementId: 'G-H93T23R4C5',
   );
 
 }

@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "944325399193",
-    "project_id": "endsem-ec83d",
-    "storage_bucket": "endsem-ec83d.firebasestorage.app"
+    "project_number": "782658379168",
+    "project_id": "eventmanagementapp-d8bc9",
+    "storage_bucket": "eventmanagementapp-d8bc9.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:944325399193:android:5c8b226fd3fcceba9d1e08",
+        "mobilesdk_app_id": "1:782658379168:android:cb36dab5ec4eeb667ad8c5",
         "android_client_info": {
           "package_name": "com.example.cse23523"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAY7bRpcwlw9q6Ic4AmIwF0PFJAj6giYRU"
+          "current_key": "AIzaSyBGVqthwjv9jti4lzmvronbworkLPQohlI"
         }
       ],
       "services": {

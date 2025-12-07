@@ -89,17 +89,17 @@ class EventDetailsScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 // v. Add images or icons using assets or network
-                ClipRRect(
-                  borderRadius: BorderRadius.circular(10.0),
-                  child: Image.network(
-                    // Using a placeholder image service based on event ID
-                    'https://picsum.photos/seed/${event.id}/600/300',
-                    height: 250,
-                    width: double.infinity,
-                    fit: BoxFit.cover,
-                  ),
-                ),
-                const SizedBox(height: 20),
+                // ClipRRect(
+                //   borderRadius: BorderRadius.circular(10.0),
+                //   child: Image.network(
+                //     // Using a placeholder image service based on event ID
+                //     'https://picsum.photos/seed/${event.id}/600/300',
+                //     height: 250,
+                //     width: double.infinity,
+                //     fit: BoxFit.cover,
+                //   ),
+                // ),
+                // const SizedBox(height: 20),
                 Text(
                   event.name,
                   style: Theme.of(context).textTheme.headlineSmall?.copyWith(
