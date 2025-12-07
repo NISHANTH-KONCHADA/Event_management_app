@@ -12,7 +12,7 @@ A cross-platform **Event Management App** built using **Flutter**, designed for 
 | 🗓 Create Events | Add event title, date, location, and description |
 | 📍 Discover Events | Browse all or nearby/upcoming events |
 | 🔍 Search & Filter | Find events by category / date |
-| 📡 Real-time Sync | Firebase/Supabase backend (based on configuration) |
+| 📡 Real-time Sync | Firebase backend  |
 | 📱 Cross Platform | Android & iOS support |
 
 ---
@@ -23,7 +23,7 @@ A cross-platform **Event Management App** built using **Flutter**, designed for 
 |------------|---------|
 | Flutter | UI + App Logic |
 | Dart | Core Programming Language |
-| Firebase / Supabase | Realtime DB, Auth & Storage |
+| Firebase | Realtime DB, Auth & Storage |
 | Provider / Bloc / Riverpod (optional) | State Management |
 | Google Maps API (optional) | Event Location |
 
