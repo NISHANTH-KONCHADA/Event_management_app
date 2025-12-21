@@ -54,6 +54,8 @@ flutter pub get
 
 # 4. Run the application
 flutter run
+```
+
 ⭐ If you like this project, don’t forget to give it a star!
 
 
