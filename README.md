@@ -7,7 +7,7 @@ A cross-platform **Event Management App** built using **Flutter**, designed for 
 ---
 
 ## 🚀 Features
-
+ 
 | Feature | Description |
 |--------|-------------|
 | 🗓 Create Events | Add event title, date, location, and description |
